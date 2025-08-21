@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    height: 100vh;
 }
 
 h1 {
@@ -11,5 +12,6 @@ p {
 }
 
 .funny {
-    font: xx-small
+    margin-top: auto;
+    font: 4
 }
