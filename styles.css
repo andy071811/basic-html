@@ -18,3 +18,13 @@ p {
     margin-top: auto;
     font: 4
 }
+
+.about {
+    background-color: gray;
+}
+
+.hello {
+    color: burlywood;
+    text-align: center;
+    font-size: 2em;
+}
