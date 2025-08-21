@@ -4,6 +4,8 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+    background-color: grey;
+    color: burlywood;
 }
 
 h1 {
@@ -14,17 +16,13 @@ p {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}
+
 .funny {
     margin-top: auto;
     font: 4
-}
-
-.about {
-    background-color: gray;
-}
-
-.hello {
-    color: burlywood;
-    text-align: center;
-    font-size: 2em;
 }
